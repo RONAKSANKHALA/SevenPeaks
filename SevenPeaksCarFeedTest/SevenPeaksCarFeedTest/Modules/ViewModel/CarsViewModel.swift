@@ -64,6 +64,7 @@ class CarsViewModel {
         }
     }
     
+    //Add Article Data into the Database for Offline Support
     private func addArticlesToCoreData(articles: [CarsFeedContent]) {
         if !articles.isEmpty {
             for article in articles {
@@ -82,6 +83,7 @@ class CarsViewModel {
         }
     }
     
+    //Load Datafrom Database for Offline Support
     private func loadLocalArticleData() {
         DispatchQueue.main.asyncAfter(deadline: .now() + 0.5) {
             if let articles = DatabaseController.getAllArticles(), !articles.isEmpty {

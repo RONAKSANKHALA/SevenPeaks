@@ -12,6 +12,7 @@ class CommonFunctions: NSObject {
     @objc class TestClass: NSObject {}
     static let Instance = CommonFunctions()
     
+    //Convert String to date based on API Date Formate(dd.MM.yyyy HH:mm)
     func stringToDate(stringDate: String?) -> String {
         let formatter = DateFormatter()
         formatter.dateFormat = "dd.MM.yyyy HH:mm"
@@ -25,6 +26,7 @@ class CommonFunctions: NSObject {
         return stringDate
     }
     
+    //Compare API Year and Current Year is same or not
     func checkYearIsSame(secondDate: Date) -> Bool? {
         let currentDate = Date()
         let currentYear = Calendar.current.dateComponents([.year], from: currentDate)
@@ -37,6 +39,7 @@ class CommonFunctions: NSObject {
         }
     }
     
+    //Set Time Formate based on System/Device Time Formate
     func checkSystemTimeFormate() -> Bool? {
         let locale = NSLocale.current
         let formatter : String = DateFormatter.dateFormat(fromTemplate: "j", options:0, locale:locale)!

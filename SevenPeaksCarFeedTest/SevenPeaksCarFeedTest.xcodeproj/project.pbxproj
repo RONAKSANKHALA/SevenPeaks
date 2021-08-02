@@ -140,19 +140,11 @@
 			path = Utils;
 			sourceTree = "<group>";
 		};
-		67D3D71F26B40CFB003D011D /* CarsFeed */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = CarsFeed;
-			sourceTree = "<group>";
-		};
 		67D3D72026B40D08003D011D /* View */ = {
 			isa = PBXGroup;
 			children = (
 				67D3D73326B4223B003D011D /* TableViewCell */,
 				67D3D70826B40AFE003D011D /* ViewController.swift */,
-				67D3D71F26B40CFB003D011D /* CarsFeed */,
 			);
 			path = View;
 			sourceTree = "<group>";

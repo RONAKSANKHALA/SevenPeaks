@@ -16,56 +16,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "21"
             endingLineNumber = "21"
-            landmarkName = "fetchArticlesList(completionHandler:)"
+            landmarkName = "fetchArticlesList()"
             landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "A8C4D76A-EA30-449D-8C21-0192562B5D59"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SevenPeaksCarFeedTest/Modules/View/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "45"
-            endingLineNumber = "45"
-            landmarkName = "bindTableViewforArticles()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "A8C4D76A-EA30-449D-8C21-0192562B5D59 - f489df7ef2ba2ee1"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "SevenPeaksCarFeedTest.ViewController.bindTableViewforArticles() -&gt; ()"
-                  moduleName = "SevenPeaksCarFeedTest"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ronaksankhala/Desktop/SevenPeaksTest/Test/SevenPeaksCarFeedTest/SevenPeaksCarFeedTest/Modules/View/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "32"
-                  endingLineNumber = "32"
-                  offsetFromSymbolStart = "53">
-               </Location>
-               <Location
-                  uuid = "A8C4D76A-EA30-449D-8C21-0192562B5D59 - f0133798a2c79bbc"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Int, SevenPeaksCarFeedTest.Article, SevenPeaksCarFeedTest.CarsFeedTableViewCell) -&gt; () in SevenPeaksCarFeedTest.ViewController.bindTableViewforArticles() -&gt; ()"
-                  moduleName = "SevenPeaksCarFeedTest"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ronaksankhala/Desktop/SevenPeaksTest/Test/SevenPeaksCarFeedTest/SevenPeaksCarFeedTest/Modules/View/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "33"
-                  endingLineNumber = "33"
-                  offsetFromSymbolStart = "46">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -78,8 +30,8 @@
             filePath = "SevenPeaksCarFeedTest/Modules/View/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "47"
-            endingLineNumber = "47"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
             landmarkName = "bindTableViewforArticles()"
             landmarkType = "7">
             <Locations>
@@ -144,7 +96,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "42"
             endingLineNumber = "42"
-            landmarkName = "fetchArticlesList(completionHandler:)"
+            landmarkName = "fetchArticlesList()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -160,7 +112,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "43"
             endingLineNumber = "43"
-            landmarkName = "fetchArticlesList(completionHandler:)"
+            landmarkName = "fetchArticlesList()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -176,7 +128,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "38"
             endingLineNumber = "38"
-            landmarkName = "fetchArticlesList(completionHandler:)"
+            landmarkName = "fetchArticlesList()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

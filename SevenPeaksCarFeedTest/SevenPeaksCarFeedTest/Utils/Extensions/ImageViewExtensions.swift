@@ -10,6 +10,7 @@ import UIKit
 import Kingfisher
 
 extension UIImageView {
+    //Download Image From API Using Kingfisher, image will be used from cache after API call once.
     func setImage(url: String) {
         let url = URL(string: url)
         self.kf.indicatorType = .activity

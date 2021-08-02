@@ -7,7 +7,7 @@
 
 import Foundation
 
-
+//API COnstan file to store local or static objects.
 struct APPURL {
 
     private struct Domains {
