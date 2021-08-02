@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "88518A60-9F87-4784-A528-95E546C7A8D0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08BB593E-5DDB-4357-9C60-E470AF6F1FD7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SevenPeaksCarFeedTest/Modules/ViewModel/CarsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "fetchArticlesList(completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8C4D76A-EA30-449D-8C21-0192562B5D59"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SevenPeaksCarFeedTest/Modules/View/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "bindTableViewforArticles()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A8C4D76A-EA30-449D-8C21-0192562B5D59 - f489df7ef2ba2ee1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SevenPeaksCarFeedTest.ViewController.bindTableViewforArticles() -&gt; ()"
+                  moduleName = "SevenPeaksCarFeedTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronaksankhala/Desktop/SevenPeaksTest/Test/SevenPeaksCarFeedTest/SevenPeaksCarFeedTest/Modules/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  uuid = "A8C4D76A-EA30-449D-8C21-0192562B5D59 - f0133798a2c79bbc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, SevenPeaksCarFeedTest.Article, SevenPeaksCarFeedTest.CarsFeedTableViewCell) -&gt; () in SevenPeaksCarFeedTest.ViewController.bindTableViewforArticles() -&gt; ()"
+                  moduleName = "SevenPeaksCarFeedTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronaksankhala/Desktop/SevenPeaksTest/Test/SevenPeaksCarFeedTest/SevenPeaksCarFeedTest/Modules/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "46">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C534922-1185-4E8A-A0FA-6151708BF476"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SevenPeaksCarFeedTest/Modules/View/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "bindTableViewforArticles()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3C534922-1185-4E8A-A0FA-6151708BF476 - f489df7ef2ba2e5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SevenPeaksCarFeedTest.ViewController.bindTableViewforArticles() -&gt; ()"
+                  moduleName = "SevenPeaksCarFeedTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronaksankhala/Desktop/SevenPeaksTest/Test/SevenPeaksCarFeedTest/SevenPeaksCarFeedTest/Modules/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1057">
+               </Location>
+               <Location
+                  uuid = "3C534922-1185-4E8A-A0FA-6151708BF476 - f0133798a2c79bdd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, SevenPeaksCarFeedTest.Article, SevenPeaksCarFeedTest.CarsFeedTableViewCell) -&gt; () in SevenPeaksCarFeedTest.ViewController.bindTableViewforArticles() -&gt; ()"
+                  moduleName = "SevenPeaksCarFeedTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronaksankhala/Desktop/SevenPeaksTest/Test/SevenPeaksCarFeedTest/SevenPeaksCarFeedTest/Modules/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "106">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "487785CF-89C7-4E91-8E71-24D049123D27"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SevenPeaksCarFeedTest/Modules/View/TableViewCell/CarsFeedTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "articles"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC452146-DCD4-4E97-8AC1-D7F48094EB22"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SevenPeaksCarFeedTest/Modules/ViewModel/CarsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "fetchArticlesList(completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88FA9D27-E16F-4BCB-9BA7-62B5016119CF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SevenPeaksCarFeedTest/Modules/ViewModel/CarsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "fetchArticlesList(completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "546052FA-F7FB-40AE-AF50-578070F83577"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SevenPeaksCarFeedTest/Modules/ViewModel/CarsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "fetchArticlesList(completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
